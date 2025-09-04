@@ -4,5 +4,6 @@
 * lime
 * salt
 * galic
+* pepper
 ## Instructions
 
