@@ -8,3 +8,4 @@
 ## Instructions
 Peel the avo
 Mix it all together
+Eat with chips
