@@ -3,6 +3,7 @@
 * avocado
 * lemon
 * salt
+* pepper
 ## Instructions
 cut avo and remove seed.
 scoop out fruit and mash and add salt
